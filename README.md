@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Design Buttons Project
 
-> HTML & CSS #5th Practice Project (Design Buttons).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Design Buttons Project.
 
 ## Live Demo
 
